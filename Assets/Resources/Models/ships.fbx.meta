@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 6079d08edc1ea714f9660016b426c301
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Lamp
+    100004: //RootNode
+    100006: Spaceship
+    100008: Spaceship.001
+    100010: Spaceship.002
+    100012: Spaceship.003
+    100014: Spaceship.004
+    100016: Spaceship.005
+    100018: Spaceship.006
+    400000: Camera
+    400002: Lamp
+    400004: //RootNode
+    400006: Spaceship
+    400008: Spaceship.001
+    400010: Spaceship.002
+    400012: Spaceship.003
+    400014: Spaceship.004
+    400016: Spaceship.005
+    400018: Spaceship.006
+    2000000: Camera
+    2100000: hull.006
+    2100002: hull_lights.006
+    2100004: hull_dark.006
+    2100006: exhaust_burn.006
+    2100008: glow_disc.006
+    2100010: hull_dark.005
+    2100012: hull.005
+    2100014: hull_lights.005
+    2100016: exhaust_burn.005
+    2100018: glow_disc.005
+    2100020: hull.004
+    2100022: hull_dark.004
+    2100024: hull_lights.004
+    2100026: exhaust_burn.004
+    2100028: glow_disc.004
+    2100030: hull_dark.003
+    2100032: hull.003
+    2100034: hull_lights.003
+    2100036: exhaust_burn.003
+    2100038: glow_disc.003
+    2100040: hull.002
+    2100042: hull_lights.002
+    2100044: hull_dark.002
+    2100046: exhaust_burn.002
+    2100048: glow_disc.002
+    2100050: hull_dark.001
+    2100052: hull.001
+    2100054: hull_lights.001
+    2100056: exhaust_burn.001
+    2100058: hull
+    2100060: hull_dark
+    2100062: hull_lights
+    2100064: exhaust_burn
+    2300000: Spaceship
+    2300002: Spaceship.001
+    2300004: Spaceship.002
+    2300006: Spaceship.003
+    2300008: Spaceship.004
+    2300010: Spaceship.005
+    2300012: Spaceship.006
+    3300000: Spaceship
+    3300002: Spaceship.001
+    3300004: Spaceship.002
+    3300006: Spaceship.003
+    3300008: Spaceship.004
+    3300010: Spaceship.005
+    3300012: Spaceship.006
+    4300000: Spaceship.006
+    4300002: Spaceship.005
+    4300004: Spaceship.004
+    4300006: Spaceship.003
+    4300008: Spaceship.002
+    4300010: Spaceship.001
+    4300012: Spaceship
+    10800000: Lamp
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
